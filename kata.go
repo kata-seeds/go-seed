@@ -1,6 +1,6 @@
 package main
 
-type Greetor interface {
+type Greeter interface {
 	Greet() string
 }
 
@@ -8,7 +8,7 @@ type Person struct {
 	greeting string
 }
 
-func NewGreeter(greeting string) Greetor {
+func NewGreeter(greeting string) Greeter {
 	return &Person{greeting: greeting}
 }
 
