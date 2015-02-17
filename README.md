@@ -1,12 +1,12 @@
-# [Kata Seeds](https://github.com/kata-seeds): Language (+ optionally a test framework)
-[![Build Status](https://travis-ci.org/kata-seeds/language-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/language-seed)
+# [Kata Seeds](https://github.com/kata-seeds): [Go](http://golang.org)
+[![Build Status](https://travis-ci.org/kata-seeds/go-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/go-seed)
 
 ## Getting Started
 
 Clone this repo with `git`:
 
-    git clone https://github.com/kata-seeds/language-seed.git
-    cd language-seed
+    git clone https://github.com/kata-seeds/go-seed.git
+    cd go-seed
 
 Install dependencies and run your tests with `make`:
 
