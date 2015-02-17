@@ -1,7 +1,7 @@
 all: dependencies test
 
 test:
-	go test ./...
+	go test -v ./...
 
 dependencies:
 	which go
