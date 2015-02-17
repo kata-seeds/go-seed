@@ -3,7 +3,7 @@ package main
 import "testing"
 
 func Test_Greet(t *testing.T) {
-	person := Person{greeting: "Hello!"}
+	person := NewGreeter("Hello!")
 	assertEqual(t, "Hello!", person.Greet())
 }
 
