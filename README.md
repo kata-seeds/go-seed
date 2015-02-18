@@ -1,4 +1,4 @@
-# [Kata Seeds](https://github.com/kata-seeds): [Go](http://golang.org)
+# [Kata Seeds](http://kata-seeds.github.io): [Go](http://golang.org)
 [![Build Status](https://travis-ci.org/kata-seeds/go-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/go-seed)
 
 ## Getting Started
